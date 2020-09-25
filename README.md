@@ -9,3 +9,4 @@ This app is a basic demo of docker compose with simple node application to displ
 ```
 docker-compose up
 ```
+run localhost on any browser to display list.
