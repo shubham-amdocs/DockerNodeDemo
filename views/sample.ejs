@@ -1,0 +1,32 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+    <title>Home Page</title> 
+    <style type="text/css" media="screen"> 
+        body { 
+            background-color: rgb(202, 218, 224); 
+            text-decoration-color: white; 
+            font-size:1.2em;  
+        } 
+    </style> 
+</head> 
+  
+<body> 
+    <h2>Movie Ratings</h2>
+
+<ul>
+    <% movies.forEach(function(movie) { %>
+        <li>
+            <strong> <%=  movie.name %></strong>
+        
+            <ul>
+                <strong>Language: </strong> <%=  movie.language %>
+                <strong> Ratings: </strong><%=  movie.rate %>
+                <strong> Type: </strong> <%=  movie.type %>                
+            </ul>
+        </li>
+
+    <% }); %>
+</ul>
+</body>
+</html>

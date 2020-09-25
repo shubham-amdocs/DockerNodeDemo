@@ -1,0 +1,44 @@
+[
+    {
+      "name": "Black Panther",
+      "language": "ENGLISH",
+      "rate": 4.5,
+      "type": "Action Adventure Fantasy"      
+    },
+    {
+      "name": "Death Wish",
+      "language": "ENGLISH",
+      "type": "Action Crime Thriller",
+      "rate": 3.2
+    },
+    {
+      "name": "Coco",
+      "language": "ENGLISH",
+      "type": "Adventure Animation Family",
+      "rate": 5
+    },
+    {
+      "name": "Avengers",
+      "language": "ENGLISH",
+      "type": "Actione",
+      "rate": 2
+    },
+    {
+      "name": "Black Friday",
+      "language": "ENGLISH",
+      "rate": 4.5,
+      "type": "Action Adventure Fantasy"
+    },
+    {      
+      "name": "Mission Impossible",
+      "language": "English",
+      "rate": 2.5,
+      "type": "Horror Thriller"    
+    },
+    {
+      "name": "Incredibles 2",
+      "language": "ENGLISH",
+      "type": "Animated",
+      "rate": 4
+    }
+  ]
